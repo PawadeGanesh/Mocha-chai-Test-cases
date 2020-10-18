@@ -1,4 +1,3 @@
-let mongoose = require('mongoose');
 let Book = require('../app/models/book');
 
 //Require the dev-dependencies
