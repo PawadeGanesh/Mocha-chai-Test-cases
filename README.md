@@ -1,2 +1,14 @@
 # Mocha-chai-Test-cases
-Source code for my Tutorial "Test a Node RESTful API with Mocha and Chai"
+ 
+# Steps to run the app
+
+# 1. 
+    git clone https://github.com/PawadeGanesh/Mocha-chai-Test-cases.git
+
+# 2.
+    npm install
+
+# 3. 
+    npm test
+
+
